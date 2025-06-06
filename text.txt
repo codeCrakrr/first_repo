@@ -1,2 +1,6 @@
 this is the first file
+<<<<<<< HEAD
 this is the which which is modified from the git
+=======
+this is the file which is modified
+>>>>>>> fbb8310ff6e23fb7eab8be778df77850037370a0
