@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 commit from the git hub
+=======
+this is the commit from the git
+>>>>>>> Stashed changes

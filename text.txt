@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-this is the file to add in the chopdepratik
-=======
-this is the first file
-<<<<<<< HEAD
-this is the which which is modified from the git
-=======
-this is the file which is modified
->>>>>>> fbb8310ff6e23fb7eab8be778df77850037370a0
->>>>>>> ba3a15b2f1463e3e5762ad773375a09ee39fee38
+this is the second time i am writing 
